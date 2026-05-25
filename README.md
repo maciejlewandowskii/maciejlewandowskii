@@ -25,8 +25,8 @@ I am a Mid Backend Developer, creative coder, and freelancer specializing in arc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maciejlewandowskii&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Maciej's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maciejlewandowskii&theme=radium&hide_border=true&background=0D1117" alt="Maciej's GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maciejlewandowskii&theme=dark" alt="Maciej's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=maciejlewandowskii&theme=dark&hide_border=true" alt="Maciej's GitHub Streak" width="48%" />
 </p>
 
 ### 🔗 Connect With Me
